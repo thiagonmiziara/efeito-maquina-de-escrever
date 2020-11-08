@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+    font-size: 3rem;
     max-width: 480px;
     text-align: center;
     margin: 60px auto;
